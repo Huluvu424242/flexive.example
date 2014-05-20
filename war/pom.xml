@@ -223,12 +223,13 @@
                         <version>${mysql.connector.version}</version>
                     </dependency>
 
-                    <!-- Deploy JBoss common library -->
+                    <!-- Deploy JBoss common library                     -->
                     <dependency>
                         <groupId>org.jboss</groupId>
                         <artifactId>jboss-common-core</artifactId>
-                        <version>2.2.3.GA</version>
+                        <version>2.2.22.GA</version>
                     </dependency>
+
 
                     <!-- Deploy our EJB and shared classes -->
                     <dependency>

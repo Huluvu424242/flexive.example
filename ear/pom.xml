@@ -82,7 +82,7 @@
 					<jboss>
              			<version>4</version>
              			<loader-repository>gh.funthomas424242:archive=${ear.name}</loader-repository>
-           			</jboss>					
+           			</jboss>
 				</configuration>
 			</plugin>
 		</plugins>
