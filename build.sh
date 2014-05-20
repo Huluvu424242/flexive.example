@@ -1,0 +1,1 @@
+mvn -U clean install -Pdb-setup-h2
